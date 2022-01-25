@@ -1,0 +1,29 @@
+{
+  "name": "ajs-unittest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolinaVylizhanina/ajs-unittest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolinaVylizhanina/ajs-unittest1/issues"
+  },
+  "homepage": "https://github.com/PolinaVylizhanina/ajs-unittest1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.4.6",
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "core-js": "^3.20.3"
+  }
+}
